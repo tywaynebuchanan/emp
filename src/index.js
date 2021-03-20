@@ -1,5 +1,3 @@
-
-
 let html = document.getElementById('root');
 html.innerHTML = `
 <header>
